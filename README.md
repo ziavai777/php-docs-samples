@@ -12,8 +12,8 @@ To browse ready to use code samples check [Google Cloud Samples](https://cloud.g
 
 ## Contributing changes
 
-* See [CONTRIBUTING.md](CONTRIBUTING.md)
-
+* See [CONTRIBUTING.md.ziaBD](CONTRIBUTING.md)
+.ziaBD
 ## Licensing
 
 * See [LICENSE](LICENSE)
